@@ -1,7 +1,7 @@
 # Three e-books written by 19-year-old Chen-Zhu Xie
 
 ## Description
-Three e-books written by 19-year-old little Xie  
+Three e-books written by 19-year-old little Xie (the 2nd containing C++ codes)  
 (Written in grades 1-2 of undergraduate studies, approximately halfway through January 2017)
 
 <!-- ## Software Architecture
