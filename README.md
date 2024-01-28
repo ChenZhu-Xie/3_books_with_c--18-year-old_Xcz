@@ -1,6 +1,6 @@
 ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_c--19-year-old_Xcz/master/img/book_3_cover.png)
 
-# Three e-books on mathematics, physics, and programming
+# Three e-books on mathematics, physics, and programming (Word -> Pdf =_+!)
 
 <!-- ## Description -->
 ## About
