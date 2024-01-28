@@ -1,3 +1,5 @@
+![show figure](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_c--19-year-old_Xcz/master/1.『The Frequencies of Nature』.pdf)
+
 # 3 本 电子书 (数学，物理，程序)
 
 ## 介绍
