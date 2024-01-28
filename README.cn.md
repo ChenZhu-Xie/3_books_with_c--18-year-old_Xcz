@@ -1,4 +1,4 @@
-![show figure](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_c--19-year-old_Xcz/master/1.『The Frequencies of Nature』.pdf)
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_c--19-year-old_Xcz/master/1.『The_Frequencies_of_Nature』.pdf)
 
 # 3 本 电子书 (数学，物理，程序)
 
@@ -7,7 +7,7 @@
     * 大学本科 1 ~ 2 年级 写的，即 2016 ~ 2017 年。
 
 ## 实施
-1. 打开 文件夹 "cpp_codes_for_book2『Illusions of Illustrations · Zodiac』"。
+1. 打开 文件夹 "cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』"。
 2. 使用 Visual C++ 6.0 打开里面的 12 个程序中的任何一个；更准确地说，
     * 使用 "Microsoft Visual Studio C++ 6.0\Common\MSDev98\Bin\MSDEV.EXE"。
 

@@ -1,4 +1,4 @@
-![show figure](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_c--19-year-old_Xcz/master/1.『The Frequencies of Nature』.pdf)
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_c--19-year-old_Xcz/master/1.『The_Frequencies_of_Nature』.pdf)
 
 # Three e-books on mathematics, physics, and programming
 
@@ -8,7 +8,7 @@
     * written in grades 1-2 of undergraduate studies, approximately during 2016-2017.
 
 ## Inplementation
-1. Open the folder "cpp_codes_for_book2『Illusions of Illustrations · Zodiac』".
+1. Open the folder "cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』".
 2. Open any of the 12 programs inside using Visual C++ 6.0, to be more precise, 
     * using "Microsoft Visual Studio C++ 6.0\Common\MSDev98\Bin\MSDEV.EXE".
 
