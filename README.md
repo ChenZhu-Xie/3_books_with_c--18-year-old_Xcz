@@ -1,4 +1,4 @@
-# Three e-books written by 19-year-old Chen-Zhu Xie
+# Three e-books on mathematics, physics, and programming
 
 <!-- ## Description -->
 ## About
