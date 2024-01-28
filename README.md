@@ -2,8 +2,8 @@
 
 <!-- ## Description -->
 ## About
-* Three e-books written by 19-year-old little Xie (the 2nd containing C++ codes)  
-    * written in grades 1-2 of undergraduate studies, approximately halfway through January 2017.
+* Three e-books written by 18~19-year-old little Xie (the 2nd containing C++ codes)  
+    * written in grades 1-2 of undergraduate studies, approximately during 2016-2017.
 
 ## Inplementation
 1. Open the folder "cpp_codes_for_book2『Illusions of Illustrations · Zodiac』".
