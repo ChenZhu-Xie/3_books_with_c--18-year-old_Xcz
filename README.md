@@ -1,4 +1,4 @@
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_c--19-year-old_Xcz/master/1.『The_Frequencies_of_Nature』.pdf)
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_c--19-year-old_Xcz/master/img/book_3_cover.svg)
 
 # Three e-books on mathematics, physics, and programming
 
