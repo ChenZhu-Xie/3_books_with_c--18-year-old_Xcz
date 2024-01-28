@@ -5,7 +5,7 @@
 ## 介绍
 * 18 ~ 19 岁小谢 写的 3 本 电子书 (第 2 本 包含 c++ 代码)  
     * 大学本科 1 ~ 2 年级 写的，即 2016 ~ 2017 年。
-    * 通过 Word_2_Pdf 生成 :sweat_smile:......
+    * 通过 Word_2_Pdf 生成 :sweat_smile:...
 ## 实施
 1. 打开 文件夹 "cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』"。
 2. 使用 Visual C++ 6.0 打开里面的 12 个程序中的任何一个；更准确地说，
