@@ -3,12 +3,12 @@
 <!-- ## Description -->
 ## About
 Three e-books written by 19-year-old little Xie (the 2nd containing C++ codes)  
-—— written in grades 1-2 of undergraduate studies, approximately halfway through January 2017.
+* written in grades 1-2 of undergraduate studies, approximately halfway through January 2017.
 
 ## Inplementation
 1. Open the folder "cpp_codes_for_book2『Illusions of Illustrations · Zodiac』".
 2. Open any of the 12 programs inside using Visual C++ 6.0,  
-    —— to be precise, using "Microsoft Visual Studio C++ 6.0\Common\MSDev98\Bin\MSDEV.EXE".
+    * to be precise, using "Microsoft Visual Studio C++ 6.0\Common\MSDev98\Bin\MSDEV.EXE".
 
 <!-- ## Software Architecture
 Software architecture description
