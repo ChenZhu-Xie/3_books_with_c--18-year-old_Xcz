@@ -1,6 +1,5 @@
 ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_3_cover.png)
 
-
 # Three e-books on mathematics, physics, and programming (C++)
 
 <!-- ## Description -->
