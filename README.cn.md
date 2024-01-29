@@ -1,4 +1,4 @@
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_c--19-year-old_Xcz/master/img/book_3_cover.png)
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_3_cover.png)
 
 # 3 本 电子书 - 数学，物理，程序 (C++)
 
