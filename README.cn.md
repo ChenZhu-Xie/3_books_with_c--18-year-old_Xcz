@@ -1,6 +1,6 @@
 ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_c--19-year-old_Xcz/master/img/book_3_cover.png)
 
-# 3 本 电子书 (数学，物理，程序)
+# 3 本 电子书 - 数学，物理，程序 (C++)
 
 ## 介绍
 * 18 ~ 19 岁小谢 写的 3 本 电子书 (第 2 本 包含 c++ 代码)  
