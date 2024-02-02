@@ -12,7 +12,7 @@
 1. Open the folder "cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』".
 2. Open any of the 12 programs inside using Visual C++ 6.0, to be more precise, 
     * using `Microsoft Visual Studio C++ 6.0\Common\MSDev98\Bin\MSDEV.EXE`.
-    * VC6.0 [Download & Setup](https://mp.weixin.qq.com/s/6YNbpj6RlCNh9zZd5K1wQA); Higher version of C++ is also recommended, but may not be able to run this old program?
+    * VC6.0 [Download & Setup](https://mp.weixin.qq.com/s/6YNbpj6RlCNh9zZd5K1wQA); Higher version of C++ is recommended, but may not be able to run this project?
 
 <!-- ## Software Architecture
 Software architecture description
