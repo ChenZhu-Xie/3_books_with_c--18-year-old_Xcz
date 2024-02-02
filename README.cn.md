@@ -10,7 +10,7 @@
 1. 打开 文件夹 "cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』"。
 2. 使用 Visual C++ 6.0 打开里面的 12 个程序中的任何一个；更准确地说，
     * 使用 `Microsoft Visual Studio C++ 6.0\Common\MSDev98\Bin\MSDEV.EXE`。
-    * VC6.0 [下载 & 安装](https://mp.weixin.qq.com/s/6YNbpj6RlCNh9zZd5K1wQA)
+    * VC6.0 [下载 & 安装](https://mp.weixin.qq.com/s/6YNbpj6RlCNh9zZd5K1wQA)；也推荐使用更高版本的 C++，但可能无法运行此旧程序？
 
 <!-- ## 软件架构
 软件架构说明
