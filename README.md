@@ -5,8 +5,8 @@
 <!-- ## About -->
 ## Description
 * Three e-books
-    * the 2nd containing C++ codes.
     * generated through Word_2_Pdf :sweat_smile:...
+    * the 2nd containing C++ codes.
 
 ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_2-5.png "『Book 2』's『Partitions: 1+6= 2+5= ...= 7』related『Sections』") 
 
