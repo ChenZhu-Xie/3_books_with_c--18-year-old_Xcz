@@ -1,4 +1,4 @@
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_3_cover.png "第三本书：狭义相对论 相关章节")
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_3_cover.png "『第三本书』的『狭义相对论』相关『章节』")
 
 # 3 本 电子书 - 数学，物理，程序 (C++)
 
@@ -8,7 +8,7 @@
     * 第 2 本 包含 c++ 代码 
     * 通过 Word_2_Pdf 生成 :sweat_smile:...
 
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_2-5.png "整数拆分（划分数）: 1+6= 2+5= ...= 7")
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_2-5.png "『第二本书』的『整数拆分（划分数）: 1+6= 2+5= ...= 7』相关『章节』")
 
 ## 实施
 1. 打开 文件夹 "cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』"。
