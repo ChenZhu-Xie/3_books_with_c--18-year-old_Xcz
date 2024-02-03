@@ -2,15 +2,25 @@
 
 # 3 本 电子书 - 数学，物理，程序 (C++)
 
+<!-- ## 关于 -->
 ## 介绍
-* 18 ~ 19 岁小谢 写的 3 本 电子书 (第 2 本 包含 c++ 代码)  
-    * 大学本科 1 ~ 2 年级 写的，即 2016 ~ 2017 年。
+* 3 本 电子书
+    * 第 2 本 包含 c++ 代码 
     * 通过 Word_2_Pdf 生成 :sweat_smile:...
+
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_2_6.png)
+
 ## 实施
 1. 打开 文件夹 "cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』"。
 2. 使用 Visual C++ 6.0 打开里面的 12 个程序中的任何一个；更准确地说，
     * 使用 `Microsoft Visual Studio C++ 6.0\Common\MSDev98\Bin\MSDEV.EXE`。
     * VC6.0 [下载 & 安装](https://mp.weixin.qq.com/s/6YNbpj6RlCNh9zZd5K1wQA)；也推荐使用更高版本的 C++，但可能无法运行此旧程序？
+
+## 历史
+* 这 3 本书 の 撰写时期
+    * 18 岁 6 月 ~ 19 岁 4 月
+    * 大学本科 1 年级（入学 至 大二开学）
+    * 2016.10 ~ 2016.12 ~ 2017.08
 
 <!-- ## 软件架构
 软件架构说明

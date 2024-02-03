@@ -2,17 +2,33 @@
 
 # Three e-books on mathematics, physics, and programming (C++)
 
-<!-- ## Description -->
-## About
-* Three e-books written by 18~19-year-old little Xie (the 2nd containing C++ codes)  
-    * written in grades 1-2 of undergraduate studies, approximately during 2016-2017.
+<!-- ## About -->
+## Description
+* Three e-books
+    * the 2nd containing C++ codes.
     * generated through Word_2_Pdf :sweat_smile:...
+
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_2_6.png)
 
 ## Inplementation
 1. Open the folder "cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』".
 2. Open any of the 12 programs inside using Visual C++ 6.0, to be more precise, 
     * using `Microsoft Visual Studio C++ 6.0\Common\MSDev98\Bin\MSDEV.EXE`.
     * VC6.0 [Download & Setup](https://mp.weixin.qq.com/s/6YNbpj6RlCNh9zZd5K1wQA); Higher version of C++ is recommended, but may not be able to run this project?
+
+## History
+* 这 3 本书 の 撰写时期
+    * 18 岁 6 月 ~ 19 岁 4 月
+    * 大学本科 1 年级（入学 至 大二开学）
+    * 2016.10 ~ 2016.12 ~ 2017.08
+
+* These 3 books were written
+    * by 18~19-year-old little Xie
+        * 18-year-&-6-month-old to 19-year-&-4-month-old 
+    * in grades 1-2 of undergraduate studies
+        * First year of undergraduate (Enrollment until the start of sophomore year)
+    * approximately during 2016-2017
+        * 2016.10 - 2016.12 - 2017.08
 
 <!-- ## Software Architecture
 Software architecture description
