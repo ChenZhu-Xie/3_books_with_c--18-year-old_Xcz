@@ -1,4 +1,4 @@
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_3_cover.png "Book 3: Special Relativity related Chapters")
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_3_cover.png "Book 3: Special_Relativity-related Chapters")
 
 # Three e-books on mathematics, physics, and programming (C++)
 
@@ -17,11 +17,6 @@
     * VC6.0 [Download & Setup](https://mp.weixin.qq.com/s/6YNbpj6RlCNh9zZd5K1wQA); Higher version of C++ is recommended, but may not be able to run this project?
 
 ## History
-* 这 3 本书 の 撰写时期
-    * 18 岁 6 月 ~ 19 岁 4 月
-    * 大学本科 1 年级（入学 至 大二开学）
-    * 2016.10 ~ 2016.12 ~ 2017.08
-
 * These 3 books were written
     * by 18~19-year-old little Xie
         * 18-year-&-6-month-old to 19-year-&-4-month-old 
