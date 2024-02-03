@@ -1,4 +1,4 @@
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_3_cover.png)
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_2-5.png)
 
 # Three e-books on mathematics, physics, and programming (C++)
 
@@ -8,7 +8,7 @@
     * the 2nd containing C++ codes.
     * generated through Word_2_Pdf :sweat_smile:...
 
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_2-6.png)
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_3_cover.png)
 
 ## Inplementation
 1. Open the folder "cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』".

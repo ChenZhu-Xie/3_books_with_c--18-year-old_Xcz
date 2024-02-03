@@ -114,7 +114,7 @@ int main()
 {
 	char *p1=(char*)malloc(1);
 	int *p2=(int*)malloc(sizeof(int)),**p3,*pp2,s,count1=0,count2=0,i,sum,j,getmax,*b,*p4,value2copy,**pp3,flag=1;
-	printf("请像这样(请不要输入0和非整数)输入多元一次不定方程a1x1+a2x2+...+anxn=b的系数后按enter键:'a1,a2,a3,a4,b,':\n");
+	printf("请像这样(请不要输入0和非整数)输入多元一次不定方程a1x1+a2x2+...+anxn=b的系数后按enter键:'a1,a2,a3,a4,...b,':\n");
 	s=getchar();                                            /*创造一个scanf函数用于实现我的功能,刚开始就需要值进来,所以不用dowhile*/
 	while(s!='\n')
 	{
