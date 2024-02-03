@@ -1,4 +1,4 @@
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_2-5.png)
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_3_cover.png "Book 3: Special Relativity related Chapters")
 
 # Three e-books on mathematics, physics, and programming (C++)
 
@@ -8,7 +8,7 @@
     * the 2nd containing C++ codes.
     * generated through Word_2_Pdf :sweat_smile:...
 
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_3_cover.png)
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_2-5.png "Partitions: 1+6= 2+5= ...= 7")
 
 ## Inplementation
 1. Open the folder "cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』".
