@@ -1,4 +1,5 @@
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_3_cover.png "『第三本书』的『狭义相对论』相关『章节』")
+<!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_3_cover.png "『第三本书』的『狭义相对论』相关『章节』") -->
+![fig](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/raw/master/img/book_3_cover.png "『第三本书』的『狭义相对论』相关『章节』")
 
 # 3 本 电子书 - 数学，物理，程序 (C++)
 
