@@ -8,7 +8,7 @@
     * generated through Word_2_Pdf :sweat_smile:...
     * the 2nd containing C++ codes.
 
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_2-5.png "『Book 2』's『Partitions: 1+6= 2+5= ...= 7』related『Sections』") 
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_2-5.png "『Book 2』's『Partitions: 1+6= 2+5= ...= 7』related『Sections』")  
 
 ## Inplementation
 1. Open the folder "cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』".
