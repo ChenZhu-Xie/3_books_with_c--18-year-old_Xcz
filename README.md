@@ -2,11 +2,15 @@
 
 # Three e-books on mathematics, physics, and programming (C++)
 
-<!-- ## About -->
+## About
+* This repo 👉 [three e-books](https://github.com/ChenZhu-Xie/3_books_with_cpp)
+    * Links to 👉 
+
 ## Description
-* Three e-books
+* Three e-books written in my freshman year
+    * have freely explored mathematics (geometry & algebra), physics, and programming
     * generated through Word_2_Pdf :sweat_smile:...
-    * the 2nd containing C++ codes.
+    * the 2nd book『Illusions_of_Illustrations_·_Zodiac』contains C++ codes.
 
 ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_2-5.png "『Book 2』's『Partitions: 1+6= 2+5= ...= 7』related『Sections』")  
 
@@ -17,12 +21,12 @@
     * [VC6.0 Download & Setup](https://mp.weixin.qq.com/s/6YNbpj6RlCNh9zZd5K1wQA) ; Higher version of C++ is recommended, but may not be able to run this project?
 
 ## History
-* These 3 books were written
-    * by 18~19-year-old little Xie
+* These 👉 [three e-books](https://github.com/ChenZhu-Xie/3_books_with_cpp) were written
+    * (Personal time) by 18~19-year-old little Xie
         * 18-year-&-6-month-old to 19-year-&-4-month-old 
-    * in grades 1-2 of undergraduate studies
+    * (Personal stage) in grades 1-2 of undergraduate studies
         * First year of undergraduate (Enrollment until the start of sophomore year)
-    * approximately during 2016-2017
+    * (World time) approximately during 2016-2017
         * 2016.10 - 2016.12 - 2017.08
 
 <!-- ## Software Architecture

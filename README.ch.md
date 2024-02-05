@@ -3,11 +3,15 @@
 
 # 3 本 电子书 - 数学，物理，程序 (C++)
 
-<!-- ## 关于 -->
+## 关于
+* 该项目 👉 [三本 电子书](https://gitee.com/ChenZhu-Xie/3_books_with_cpp)
+    * 链接至 👉 
+
 ## 介绍
-* 3 本 电子书
+* 大一时 写的 3 本 电子书
+    * 自由探索了 数学（几何 & 代数）、物理 和 编程
     * 通过 Word_2_Pdf 生成 :sweat_smile:...
-    * 第 2 本 包含 c++ 代码
+    * 第 2 本书『Illusions_of_Illustrations_·_Zodiac』包含 C++ 代码
 
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_2-5.png "『第二本书』的『整数拆分（划分数）: 1+6= 2+5= ...= 7』相关『章节』") -->
 ![fig](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/raw/master/img/book_2-5.png "『第二本书』的『整数拆分（划分数）: 1+6= 2+5= ...= 7』相关『章节』")
@@ -19,10 +23,10 @@
     * [VC6.0 下载 & 安装](https://mp.weixin.qq.com/s/6YNbpj6RlCNh9zZd5K1wQA)；也推荐使用更高版本的 C++，但可能无法运行此旧程序？
 
 ## 历史
-* 这 3 本书 の 撰写时期
-    * 18 岁 6 月 ~ 19 岁 4 月
-    * 大学本科 1 年级（入学 至 大二开学）
-    * 2016.10 ~ 2016.12 ~ 2017.08
+* 这 👉 [三本 电子书](https://gitee.com/ChenZhu-Xie/3_books_with_cpp) の 撰写时期
+    * （个人时间）18 岁 6 月 ~ 19 岁 4 月
+    * （个人阶段）大学本科 1 年级（入学 至 大二开学）
+    * （世界时间）2016.10 ~ 2016.12 ~ 2017.08
 
 <!-- ## 软件架构
 软件架构说明
