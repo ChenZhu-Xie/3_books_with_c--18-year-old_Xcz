@@ -3,7 +3,7 @@
 # Three e-books on mathematics, physics, and programming (C++)
 
 ## About
-* This repo 👉 [three e-books](https://github.com/ChenZhu-Xie/3_books_with_cpp)
+* This project 👉 [three e-books](https://github.com/ChenZhu-Xie/3_books_with_cpp)
     * Links to 👉 
 
 ## Description
