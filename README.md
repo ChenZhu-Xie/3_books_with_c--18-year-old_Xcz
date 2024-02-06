@@ -12,7 +12,10 @@
     * generated through Word_2_Pdf :sweat_smile:...
     * the 2nd book『Illusions_of_Illustrations_·_Zodiac』contains C++ codes.
 
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_2-5.png "『Book 2』's『Partitions: 1+6= 2+5= ...= 7』related『Sections』")  
+* "『Book 2』's『Partitions: 1+6= 2+5= ...= 7』related『Sections』"
+    * ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_2-5.png "『Book 2』's『Partitions: 1+6= 2+5= ...= 7』related『Sections』") 
+* "『Book 1』's『Multinomial theorem』related『Sections』"
+    * ![fig](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/raw/master/img/book_2-4.png "『Book 1』's『Multinomial theorem』related『Sections』")
 
 ## Inplementation
 1. Open the folder "cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』".
