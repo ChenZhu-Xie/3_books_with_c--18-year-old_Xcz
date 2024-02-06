@@ -14,7 +14,7 @@
     * 第 2 本书『Illusions_of_Illustrations_·_Zodiac』包含 C++ 代码
 
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_2-5.png "『第二本书』的『整数拆分（划分数）: 1+6= 2+5= ...= 7』相关『章节』") -->
-* "『第二本书』的『整数拆分（划分数）: 1+6= 2+5= ...= 7』相关『章节』"
+* 『第二本书』的『整数拆分（划分数）: 1+6= 2+5= ...= 7』相关『章节』
     * ![fig](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/raw/master/img/book_2-5.png "『第二本书』的『整数拆分（划分数）: 1+6= 2+5= ...= 7』相关『章节』")
 * 『第一本书』的『多项式定理』相关『章节』
     * ![fig](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/raw/master/img/book_2-4.png "『第一本书』的『多项式定理』相关『章节』")
