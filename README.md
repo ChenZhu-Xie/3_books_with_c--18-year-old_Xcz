@@ -4,7 +4,7 @@
 
 ## About
 * This project 👉 [three e-books](https://github.com/ChenZhu-Xie/3_books_with_cpp)
-    * includes book ⊃ 👉 [related content of the 2nd book](https://github.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
+    * includes book ⊃ 👉 [acquaintances of the 2nd book](https://github.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
         * Utilizes tool ⊷ 👉 [2D ray-optics simulation](https://github.com/ChenZhu-Xie/ray_optics__xcz)
 
 ## Description
