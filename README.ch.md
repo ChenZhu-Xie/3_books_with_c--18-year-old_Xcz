@@ -5,7 +5,8 @@
 
 ## 关于
 * 该项目 👉 [三本 电子书](https://gitee.com/ChenZhu-Xie/3_books_with_cpp)
-    * 链接至 👉 
+    * 包含书籍 ⊋ 👉 [第二本书 相关内容](https://gitee.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
+        * 使用到工具 ₪ 👉 [2D 射線追蹤 模拟](https://gitee.com/ChenZhu-Xie/ray_optics__xcz)
 
 ## 介绍
 * 大一时 写的 3 本 电子书
