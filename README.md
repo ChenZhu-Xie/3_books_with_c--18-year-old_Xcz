@@ -3,9 +3,9 @@
 # Three e-books on mathematics, physics, and programming (C++)
 
 ## About
-* This project 👉 [three e-books](https://github.com/ChenZhu-Xie/3_books_with_cpp)
-    * includes book ⊃ 👉 [acquaintances of the 2nd book](https://github.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
-        * Utilizes tool ⊷ 👉 [2D ray-optics simulation](https://github.com/ChenZhu-Xie/ray_optics__xcz)
+* These books 👉 [three e-books](https://github.com/ChenZhu-Xie/3_books_with_cpp)
+    1. includes book ⊃ 👉 [acquaintances of the 2nd book](https://github.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
+        * Utilizes simulator ⊷ 👉 [2D ray-optics simulation](https://github.com/ChenZhu-Xie/ray_optics__xcz)
 
 ## Description
 * Three e-books written in my freshman year
