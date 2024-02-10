@@ -4,7 +4,7 @@
 
 ## About
 * These books 👉 [three e-books](https://github.com/ChenZhu-Xie/3_books_with_cpp)
-    1. includes book ⊃ 👉 [acquaintances of the 2nd book](https://github.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
+    1. includes book ⊃ 👉 [instance of the 2nd book:『ray optics』runs in an『integrating sphere』](https://github.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
         * Utilizes simulator ⊷ 👉 [2D ray-optics simulation](https://github.com/ChenZhu-Xie/ray_optics__xcz)
 
 ## Description

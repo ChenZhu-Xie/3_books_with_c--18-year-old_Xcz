@@ -5,7 +5,7 @@
 
 ## 关于
 * 这些书 👉 [三本 电子书](https://gitee.com/ChenZhu-Xie/3_books_with_cpp)
-    1. 包含书籍 ⊃ 👉 [第二本书 相关内容](https://gitee.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
+    1. 包含书籍 ⊃ 👉 [第二本书 の 实例：运行在『积分球』中的『几何光学』](https://gitee.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
         * 使用到模拟器 ⊷ 👉 [2D 射線追蹤 模拟](https://gitee.com/ChenZhu-Xie/ray_optics__xcz)
 
 ## 介绍
