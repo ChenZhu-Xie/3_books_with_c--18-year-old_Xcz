@@ -9,7 +9,7 @@
         * 使用到模拟器 ⊷ 👉 [2D 射線追蹤 模拟](https://gitee.com/ChenZhu-Xie/ray_optics__xcz)
     2. 内容来自 ⊂ [本科 创造](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/06__3.1__Self_Creations)
         * 属于生涯 ⊂ [本科 活动](https://gitee.com/ChenZhu-Xie/undergraduate_activities)
-    3. 起源于 ≺ [手写书籍 数字化工程](https://gitee.com/ChenZhu-Xie/senior-high-school_activities/tree/master/4__6.2__Books_digitalization_project__3.0_year)
+    3. 动机源于 ≺ [手写书籍 数字化工程](https://gitee.com/ChenZhu-Xie/senior-high-school_activities/tree/master/4__6.2__Books_digitalization_project__3.0_year)
         * 属于生涯 ⊂ [高中 活动](https://gitee.com/ChenZhu-Xie/senior-high-school_activities)
 * English「README」ⓔ 👉 [three e-books](https://github.com/ChenZhu-Xie/3_books_with_cpp)
 
