@@ -19,6 +19,7 @@
     * ![fig](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/raw/master/img/book_2-5.png "『第二本书』的『整数拆分（划分数）: 1+6= 2+5= ...= 7』相关『章节』")
 * 『第一本书』的『多项式定理』相关『章节』
     * ![fig](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/raw/master/img/book_2-4.png "『第一本书』的『多项式定理』相关『章节』")
+    * 上图中的过程，类似于 [观电子沙漏，享赛博人生](https://www.bilibili.com/video/BV1Ra4y1k72W)
 
 ## 实施
 1. 打开 文件夹 "cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』"。
