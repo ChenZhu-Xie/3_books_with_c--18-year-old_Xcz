@@ -6,10 +6,10 @@
 * These books 👉 [three e-books](https://github.com/ChenZhu-Xie/3_books_with_cpp)
     1. Includes book ⊃ 👉 [instance of the 2nd book:『ray optics』runs in an『integrating sphere』](https://github.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
         * Utilizes simulator ⊷ 👉 [2D ray-optics simulation](https://github.com/ChenZhu-Xie/ray_optics__xcz)
-    2. Belongs to ⊂ [undergradutate creations](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/06__3.1__Self_Creations)
-        * Corresponding career ⊂ [undergraduate activities](https://gitee.com/ChenZhu-Xie/undergraduate_activities)
-    3. Originates from ≺ [Books digitalization project](https://gitee.com/ChenZhu-Xie/senior-high-school_activities/tree/master/4__6.2__Books_digitalization_project__3.0_year)
-        * Corresponding career ⊂ [senior-high-school activities](https://gitee.com/ChenZhu-Xie/senior-high-school_activities)
+    2. Belongs to ⊂ [undergradutate creations](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/06__3.1__Self_Creations)
+        * Corresponding career ⊂ [undergraduate activities](https://github.com/ChenZhu-Xie/undergraduate_activities)
+    3. Originates from ≺ [Books digitalization project](https://github.com/ChenZhu-Xie/senior-high-school_activities/tree/master/4__6.2__Books_digitalization_project__3.0_year)
+        * Corresponding career ⊂ [senior-high-school activities](https://github.com/ChenZhu-Xie/senior-high-school_activities)
 * 中文「自述文档」㊥ 👉 [三本 电子书](https://gitee.com/ChenZhu-Xie/3_books_with_cpp)
 
 ## Description
