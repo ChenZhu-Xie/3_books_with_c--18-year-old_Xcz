@@ -6,6 +6,7 @@
 * These books 👉 [three e-books](https://github.com/ChenZhu-Xie/3_books_with_cpp)
     1. includes book ⊃ 👉 [instance of the 2nd book:『ray optics』runs in an『integrating sphere』](https://github.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
         * Utilizes simulator ⊷ 👉 [2D ray-optics simulation](https://github.com/ChenZhu-Xie/ray_optics__xcz)
+* 中文「自述文档」㊥ 👉 [三本 电子书](https://gitee.com/ChenZhu-Xie/3_books_with_cpp)
 
 ## Description
 * Three e-books written in my freshman year
