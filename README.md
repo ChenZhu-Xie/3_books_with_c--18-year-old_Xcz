@@ -4,8 +4,12 @@
 
 ## About
 * These books 👉 [three e-books](https://github.com/ChenZhu-Xie/3_books_with_cpp)
-    1. includes book ⊃ 👉 [instance of the 2nd book:『ray optics』runs in an『integrating sphere』](https://github.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
+    1. Includes book ⊃ 👉 [instance of the 2nd book:『ray optics』runs in an『integrating sphere』](https://github.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
         * Utilizes simulator ⊷ 👉 [2D ray-optics simulation](https://github.com/ChenZhu-Xie/ray_optics__xcz)
+    2. Belongs to ⊂ [本科「创造」](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/06__3.1__Self_Creations)
+        * Corresponding career ⊂ [本科「活动」](https://gitee.com/ChenZhu-Xie/undergraduate_activities)
+    3. Originates from ≺ [「手写书籍」数字化工程](https://gitee.com/ChenZhu-Xie/senior-high-school_activities/tree/master/4__6.2__Books_digitalization_project__3.0_year)
+        * Corresponding career ⊂ [高中「活动」](https://gitee.com/ChenZhu-Xie/senior-high-school_activities)
 * 中文「自述文档」㊥ 👉 [三本 电子书](https://gitee.com/ChenZhu-Xie/3_books_with_cpp)
 
 ## Description
