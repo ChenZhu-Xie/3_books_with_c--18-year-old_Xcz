@@ -7,8 +7,8 @@
     1. Includes book ⊃ 👉 [Illusions_of_Illustrations_·_Zodiac](https://github.com/ChenZhu-Xie/3_books_with_cpp/tree/master/cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』)
         * Includes instance [instance of the 2nd book:『ray optics』runs in an『integrating sphere』](https://github.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
             * Utilizes simulator ⊷ 👉 [2D ray-optics simulation](https://github.com/ChenZhu-Xie/ray_optics__xcz)
-        * Applied to explain ⊶ [the microstate number of boson systems](https://gitee.com/ChenZhu-Xie/undergraduate_courses/tree/master/03__2.1__Courses_Science\12__5.3__Email_exchange_with「Thermodynamics_and_Statistical_Physics」teacher_Li_Nan__2.5_year)
-            * Contained in ⊂ [undergraduate courses](https://gitee.com/ChenZhu-Xie/undergraduate_courses/tree/master/03__2.1__Courses_Science\12__5.3__Email_exchange_with「Thermodynamics_and_Statistical_Physics」teacher_Li_Nan__2.5_year)
+        * Applied to explain ⊶ [the microstate number of boson systems](https://github.com/ChenZhu-Xie/undergraduate_courses/tree/master/03__2.1__Courses_Science\12__5.3__Email_exchange_with「Thermodynamics_and_Statistical_Physics」teacher_Li_Nan__2.5_year)
+            * Contained in ⊂ [undergraduate courses](https://github.com/ChenZhu-Xie/undergraduate_courses/tree/master/03__2.1__Courses_Science\12__5.3__Email_exchange_with「Thermodynamics_and_Statistical_Physics」teacher_Li_Nan__2.5_year)
     3. Belongs to ⊂ [undergradutate creations](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/06__3.1__Self_Creations)
         * Corresponding career ⊂ [undergraduate activities](https://github.com/ChenZhu-Xie/undergraduate_activities)
     4. Originates from ≺ [Books digitalization project](https://github.com/ChenZhu-Xie/senior-high-school_activities/tree/master/4__6.2__Books_digitalization_project__3.0_year)
@@ -19,7 +19,7 @@
 * Three e-books written in my freshman year
     * have freely explored mathematics (geometry & algebra), physics, and programming
     * generated through Word_2_Pdf :sweat_smile:...
-    * the 2nd book『Illusions_of_Illustrations_·_Zodiac』contains C++ codes.
+    * the 2nd book[『Illusions_of_Illustrations_·_Zodiac』](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/tree/master/cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』)contains C++ codes.
 
 * 『Book 2』's『Partitions: 1+6= 2+5= ...= 7』related『Sections』
     * ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_2-5.png "『Book 2』's『Partitions: 1+6= 2+5= ...= 7』related『Sections』")
@@ -28,7 +28,7 @@
     * The process in fig above is similiar to [Electronic hourglass](https://www.bilibili.com/video/BV1yj411o7Hf)
 
 ## Inplementation
-1. Open the folder "cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』".
+1. Open the folder "[cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』](https://github.com/ChenZhu-Xie/3_books_with_cpp/tree/master/cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』)".
 2. Run any of the 12 programs inside using Visual C++ 6.0, to be more precise, 
     * using `Microsoft Visual Studio C++ 6.0\Common\MSDev98\Bin\MSDEV.EXE`.
     * [VC6.0 Download & Setup](https://mp.weixin.qq.com/s/6YNbpj6RlCNh9zZd5K1wQA) ; Higher version of C++ is recommended, but may not be able to run this project?

@@ -20,7 +20,7 @@
 * 大一时 写的 3 本 电子书
     * 自由探索了 数学（几何 & 代数）、物理 和 编程
     * 通过 Word_2_Pdf 生成 :sweat_smile:...
-    * 第 2 本书『Illusions_of_Illustrations_·_Zodiac』包含 C++ 代码
+    * 第 2 本书[『Illusions_of_Illustrations_·_Zodiac』](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/tree/master/cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』)包含 C++ 代码
 
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_2-5.png "『第二本书』的『整数拆分（划分数）: 1+6= 2+5= ...= 7』相关『章节』") -->
 * 『第二本书』的『整数拆分（划分数）: 1+6= 2+5= ...= 7』相关『章节』
@@ -30,7 +30,7 @@
     * 上图中的过程，类似于 [电子沙漏](https://www.bilibili.com/video/BV1yj411o7Hf)
 
 ## 实施
-1. 打开 文件夹 "cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』"。
+1. 打开 文件夹 "[cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/tree/master/cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』)"。
 2. 使用 Visual C++ 6.0 运行里面的 12 个程序中的任何一个；更准确地说，
     * 使用 `Microsoft Visual Studio C++ 6.0\Common\MSDev98\Bin\MSDEV.EXE`。
     * [VC6.0 下载 & 安装](https://mp.weixin.qq.com/s/6YNbpj6RlCNh9zZd5K1wQA)；也推荐使用更高版本的 C++，但可能无法运行此旧程序？
