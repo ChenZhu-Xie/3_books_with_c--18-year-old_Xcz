@@ -12,9 +12,11 @@
             * 属于课程 ⊂ 👉 [「热力学」与「统计物理」](https://gitee.com/ChenZhu-Xie/undergraduate_courses/tree/master/03__2.1__Courses_Science\12__5.3__Email_exchange_with「Thermodynamics_and_Statistical_Physics」teacher_Li_Nan__2.5_year) 
         * 使用技术 ⊷ 👉 [C++](https://gitee.com/ChenZhu-Xie/undergraduate_courses/tree/master/04__2.2__Courses_Engineering/0__1.1__C++_Programming__0.5_year)
             * 属于生涯 ⊂ 👉 [本科 课程：工程](https://gitee.com/ChenZhu-Xie/undergraduate_courses/tree/master/04__2.2__Courses_Engineering) 
-    2. 内容来自 ⊂ 👉 [本科 创造](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/06__3.1__Self_Creations)
+    2. 其中内容 ⊋ 👉[「Spherical trigonometry」](https://github.com/ChenZhu-Xie/3_books_with_cpp/tree/master/2.『Illusions_of_Illustrations_·_Zodiac』(C++).pdf)
+        * 用于文章 ⊶ 👉 [Berry-Mcleod paper (Private)](https://github.com/ChenZhu-Xie/Berry_Mcleod_paper__private)
+    3. 内容来自 ⊂ 👉 [本科 创造](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/06__3.1__Self_Creations)
         * 属于生涯 ⊂ 👉 [本科 活动](https://gitee.com/ChenZhu-Xie/undergraduate_activities)
-    3. 动机源于 ≺ 👉 [手写书籍 数字化工程](https://gitee.com/ChenZhu-Xie/senior-high-school_activities/tree/master/4__6.2__Books_digitalization_project__3.0_year)
+    4. 动机源于 ≺ 👉 [手写书籍 数字化工程](https://gitee.com/ChenZhu-Xie/senior-high-school_activities/tree/master/4__6.2__Books_digitalization_project__3.0_year)
         * 属于生涯 ⊂ 👉 [高中 活动](https://gitee.com/ChenZhu-Xie/senior-high-school_activities)
 * English「README」ⓔ 👉 [three e-books](https://github.com/ChenZhu-Xie/3_books_with_cpp)
 
