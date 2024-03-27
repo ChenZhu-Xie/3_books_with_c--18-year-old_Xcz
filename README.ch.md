@@ -1,5 +1,5 @@
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_3_cover.png "『第三本书』的『狭义相对论』相关『章节』") -->
-![fig](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/raw/master/img/book_3_cover.png "『第三本书』的『狭义相对论』相关『章节』")
+[![fig](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/raw/master/img/book_3_cover.png "『第三本书』的『狭义相对论』相关『章节』")](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/tree/master/3.『Geometry_of_Shadows』.pdf "『第三本书』的『狭义相对论』相关『章节』")
 
 # 3 本 电子书 - 数学，物理，程序 (C++)
 
@@ -24,13 +24,13 @@
 * 大一时 写的 3 本 电子书
     * 自由探索了 数学（几何 & 代数）、物理 和 编程
     * 通过 Word_2_Pdf 生成 :sweat_smile:...
-    * 第 2 本书[『Illusions_of_Illustrations_·_Zodiac』](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/tree/master/cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』)包含 C++ 代码
+    * 第 2 本书[『Illusions_of_Illustrations_·_Zodiac』](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/tree/master/2.『Illusions_of_Illustrations_·_Zodiac』(C++).pdf)包含 [C++ 代码](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/tree/master/cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』)
 
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_2-5.png "『第二本书』的『整数拆分（划分数）: 1+6= 2+5= ...= 7』相关『章节』") -->
-* 『第二本书』的『整数拆分（划分数）: 1+6= 2+5= ...= 7』相关『章节』
-    * ![fig](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/raw/master/img/book_2-5.png "『第二本书』的『整数拆分（划分数）: 1+6= 2+5= ...= 7』相关『章节』")
-* 『第一本书』的『多项式定理』相关『章节』
-    * ![fig](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/raw/master/img/book_2-4.png "『第一本书』的『多项式定理』相关『章节』")
+* 『[第二本书](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/tree/master/2.『Illusions_of_Illustrations_·_Zodiac』(C++).pdf)』的『整数拆分（划分数）: 1+6= 2+5= ...= 7』相关『章节』
+    * [![fig](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/raw/master/img/book_2-5.png "『第二本书』的『整数拆分（划分数）: 1+6= 2+5= ...= 7』相关『章节』")](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/tree/master/cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』/5.全正系数多元一次不定方程的非负整数解.cpp)
+* 『[第一本书](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/tree/master/1.『The_Frequencies_of_Nature』.pdf)』的『多项式定理』相关『章节』
+    * [![fig](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/raw/master/img/book_2-4.png "『第一本书』的『多项式定理』相关『章节』")](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/tree/master/cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』/3.多项式定理中的计组合数问题.cpp)
     * 上图中的过程，类似于 [电子沙漏](https://www.bilibili.com/video/BV1yj411o7Hf)
 
 ## 实施

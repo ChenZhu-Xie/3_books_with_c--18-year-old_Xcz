@@ -1,4 +1,4 @@
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_3_cover.png "『Book 3』's『Special Relativity』related『Sections』")
+[![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_3_cover.png "『Book 3』's『Special Relativity』related『Sections』")](https://github.com/ChenZhu-Xie/3_books_with_cpp/tree/master/3.『Geometry_of_Shadows』.pdf "『Book 3』's『Special Relativity』related『Sections』")
 
 # Three e-books on mathematics, physics, and programming (C++)
 
@@ -23,12 +23,12 @@
 * Three e-books written in my freshman year
     * have freely explored mathematics (geometry & algebra), physics, and programming
     * generated through Word_2_Pdf :sweat_smile:...
-    * the 2nd book[『Illusions_of_Illustrations_·_Zodiac』](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/tree/master/cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』)contains C++ codes.
+    * the 2nd book[『Illusions_of_Illustrations_·_Zodiac』](https://github.com/ChenZhu-Xie/3_books_with_cpp/tree/master/2.『Illusions_of_Illustrations_·_Zodiac』(C++).pdf)contains [C++ codes](https://github.com/ChenZhu-Xie/3_books_with_cpp/tree/master/cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』).
 
-* 『Book 2』's『Partitions: 1+6= 2+5= ...= 7』related『Sections』
-    * ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_2-5.png "『Book 2』's『Partitions: 1+6= 2+5= ...= 7』related『Sections』")
-* 『Book 1』's『Multinomial theorem』related『Sections』
-    * ![fig](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/raw/master/img/book_2-4.png "『Book 1』's『Multinomial theorem』related『Sections』")
+* 『[Book 2](https://github.com/ChenZhu-Xie/3_books_with_cpp/tree/master/2.『Illusions_of_Illustrations_·_Zodiac』(C++).pdf)』's『Partitions: 1+6= 2+5= ...= 7』related『Sections』
+    * [![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_2-5.png "『Book 2』's『Partitions: 1+6= 2+5= ...= 7』related『Sections』")](https://github.com/ChenZhu-Xie/3_books_with_cpp/tree/master/cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』/5.全正系数多元一次不定方程的非负整数解.cpp)
+* 『[Book 1](https://github.com/ChenZhu-Xie/3_books_with_cpp/tree/master/1.『The_Frequencies_of_Nature』.pdf)』's『Multinomial theorem』related『Sections』
+    * [![fig](https://github.com/ChenZhu-Xie/3_books_with_cpp/raw/master/img/book_2-4.png "『Book 1』's『Multinomial theorem』related『Sections』")](https://github.com/ChenZhu-Xie/3_books_with_cpp/tree/master/cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』/3.多项式定理中的计组合数问题.cpp)
     * The process in fig above is similiar to [Electronic hourglass](https://www.bilibili.com/video/BV1yj411o7Hf)
 
 ## Inplementation

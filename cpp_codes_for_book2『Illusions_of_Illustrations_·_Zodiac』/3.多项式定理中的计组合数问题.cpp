@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 #include<stdlib.h>
-int j=0,count=0,*hang=(int*)malloc(sizeof(int)),mohang,*lie=(int*)malloc(sizeof(int));
+int n0,m0,j=0,count=0,*hang=(int*)malloc(sizeof(int)),mohang,*lie=(int*)malloc(sizeof(int)),*lieshu=(int*)malloc(sizeof(int)),*hangshu=(int*)malloc(sizeof(int)),lieshustore,*hangshustore=(int*)malloc(sizeof(int)),lieshucount=0,lieshudizhi=0;
 int min(int m,int n)
 {
 	int t;
@@ -12,19 +12,16 @@ int min(int m,int n)
 }
 void fun(int m,int n)
 {
-	int i,m1,n1,k;
+	int i,k;
 	if(n>1)
 	{
 		for(i=0;i<=n-1;i++)
 		{
 			j++;
-			n1=n-i;              /*valid*/
 			hang=(int*)realloc(hang,j*sizeof(int));
-			hang[j-1]=n1;
-			m1=m-n1;             /*valid*/
-			mohang=m1;
-			n1=min(m1,n1);       /*valid*/
-			fun(m1,n1);
+			hang[j-1]=n-i;/*valid*/
+			mohang=m-hang[j-1];/*valid*/
+			fun(mohang,min(mohang,hang[j-1]));
 			j--;
 		}
 	}
@@ -37,7 +34,7 @@ void fun(int m,int n)
 			for(i=j;i<=j+mohang-1;i++)
 				hang[i]=1;
 			/**/
-			printf("ï¿½ï¿½ï¿½Ð´ï¿½ï¿½Ïµï¿½ï¿½Â¼ï¿½ï¿½ï¿½:");
+			printf("°´ÐÐ´ÓÉÏµ½ÏÂ¼ÆÊý:");
 			for(i=j+mohang-1;i>=0;i--)
 				printf("%d ",hang[i]);
 			printf("\n");
@@ -53,14 +50,42 @@ void fun(int m,int n)
 				}
 			}
 			/**/
-			printf("ï¿½ï¿½ï¿½Ð´ï¿½ï¿½ï¿½ï¿½Ò¼ï¿½ï¿½ï¿½:");
+			printf("°´ÁÐ´Ó×óµ½ÓÒ¼ÆÊý:");
 			for(k=0;k<hang[0];k++)
 				printf("%d ",lie[k]);
 			printf("\n\n");
+			if(lieshustore!=hang[0])/*FUNCTION1 addstart*/
+			{
+				lieshustore=hang[0];
+				lieshudizhi++;
+				lieshu=(int*)realloc(lieshu,lieshudizhi*sizeof(int));
+				lieshu[lieshudizhi-1]=lieshucount;
+				lieshucount=1;
+			}
+			else
+			{
+				lieshucount++;
+			}/*FUNCTION1 addfinish*/
+			if(m0%min(m0,n0)!=0)/*FUNCTION2 addstart*/
+			{
+				for(i=0;i<=m0-((m0-m0%min(m0,n0))/min(m0,n0)+1);i++)
+				{
+					if(hangshustore[i]==lie[0])
+						hangshu[i]++;
+				}
+			}
+			else
+			{
+				for(i=0;i<=m0-m0/min(m0,n0);i++)
+				{
+					if(hangshustore[i]==lie[0])
+						hangshu[i]++;
+				}
+			}/*FUNCTION2 addfinish*/
 		}
 		if(n==0)
 		{
-			printf("ï¿½ï¿½ï¿½Ð´ï¿½ï¿½Ïµï¿½ï¿½Â¼ï¿½ï¿½ï¿½:");
+			printf("°´ÐÐ´ÓÉÏµ½ÏÂ¼ÆÊý:");
 			for(i=j-1;i>=0;i--)
 				printf("%d ",hang[i]);
 			printf("\n");
@@ -72,23 +97,89 @@ void fun(int m,int n)
 				for(i=0;i<=j-1;i++)
 				{
 					if(hang[i]-k-1>=0)
-						lie[k]=lie[k]+1;
+						lie[k]++;
 				}
 			}
 			/**/
-			printf("ï¿½ï¿½ï¿½Ð´ï¿½ï¿½ï¿½ï¿½Ò¼ï¿½ï¿½ï¿½:");
+			printf("°´ÁÐ´Ó×óµ½ÓÒ¼ÆÊý:");
 			for(k=0;k<hang[0];k++)
 				printf("%d ",lie[k]);
 			printf("\n\n");
+			if(lieshustore!=hang[0])/*FUNCTION1 addstart*/
+			{
+				lieshustore=hang[0];
+				lieshudizhi++;
+				lieshu=(int*)realloc(lieshu,lieshudizhi*sizeof(int));
+				lieshu[lieshudizhi-1]=lieshucount;
+				lieshucount=1;
+			}
+			else
+			{
+				lieshucount++;
+			}/*FUNCTION1 addfinish*/
+			if(m0%min(m0,n0)!=0)/*FUNCTION2 addstart*/
+			{
+				for(i=0;i<=m0-((m0-m0%min(m0,n0))/min(m0,n0)+1);i++)
+				{
+					if(hangshustore[i]==lie[0])
+						hangshu[i]++;
+				}
+			}
+			else
+			{
+				for(i=0;i<=m0-m0/min(m0,n0);i++)
+				{
+					if(hangshustore[i]==lie[0])
+						hangshu[i]++;
+				}
+			}/*FUNCTION2 addfinish*/
 		}
 	}
 }
 void main()
 {
-	int m,n;
-	printf("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¸ï¿½ï¿½ï¿½ï¿½ï¿½Í²ï¿½ï¿½,Ö®ï¿½ï¿½ï¿½Ô¶ï¿½ï¿½Å¸ï¿½ï¿½ï¿½'m,n':\n\n");
-	scanf("%d,%d",&m,&n);
-	printf("\n");
-	fun(m,min(m,n));
-	printf("\nï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê¾,ï¿½ï¿½ï¿½ï¿½%dï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï¡ï¿½\n\n",count);
+	int i;
+	printf("ÇëÏñÕâÑùÊäÈëÇòµÄ¸öÊýºÍÍ²¿í,Ö®¼äÒÔ¶ººÅ¸ô¿ª'm,n':");
+	scanf("%d,%d",&m0,&n0);
+	lieshustore=min(m0,n0);/*FUNCTION1 add*/
+	if(m0%min(m0,n0)!=0)/*FUNCTION2 addstart*/
+	{
+		hangshustore=(int*)realloc(hangshustore,(m0-((m0-m0%min(m0,n0))/min(m0,n0)+1)+1)*sizeof(int));
+		hangshu=(int*)realloc(hangshu,(m0-((m0-m0%min(m0,n0))/min(m0,n0)+1)+1)*sizeof(int));
+		for(i=0;i<=m0-((m0-m0%min(m0,n0))/min(m0,n0)+1);i++)
+		{
+			hangshustore[i]=(m0-m0%min(m0,n0))/min(m0,n0)+1+i;
+			hangshu[i]=0;
+		}
+	}
+	else
+	{
+		hangshustore=(int*)realloc(hangshustore,(m0-m0/min(m0,n0)+1)*sizeof(int));
+		hangshu=(int*)realloc(hangshu,(m0-m0/min(m0,n0)+1)*sizeof(int));
+		for(i=0;i<=m0-m0/min(m0,n0);i++)
+		{
+			hangshustore[i]=m0/min(m0,n0)+i;
+			hangshu[i]=0;
+		}
+	}/*FUNCTION2 addfinish*/
+	fun(m0,min(m0,n0));
+	printf("\nÈçÉÏËùÊ¾,¹²ÓÐ%d×é½âµÄ×éºÏ¡£\n\n",count);
+	lieshudizhi++;/*FUNCTION1 addstart*/
+	lieshu=(int*)realloc(lieshu,lieshudizhi*sizeof(int));
+	lieshu[lieshudizhi-1]=1;/*FUNCTION1 addfinish*/
+	for(i=1;i<=lieshudizhi;i++)/*FUNCTION1 addstart*/
+	{
+		printf("×ÝÏòÉÏÓÐ%dÖÖÊýµÄ×éºÏÖÖÀà£¬ÓÐ%d¸ö\n",lieshudizhi+1-i,lieshu[i-1]);
+	}/*FUNCTION1 addfinish*/
+	printf("\n\n");
+	if(m0%min(m0,n0)!=0)/*FUNCTION2 addstart*/
+	{
+		for(i=m0-((m0-m0%min(m0,n0))/min(m0,n0)+1);i>=0;i--)
+			printf("ºáÏòÉÏÓÐ%dÖÖÊýµÄ×éºÏÖÖÀà£¬ÓÐ%d¸ö\n",hangshustore[i],hangshu[i]);
+	}
+	else
+	{
+		for(i=m0-m0/min(m0,n0);i>=0;i--)
+			printf("ºáÏòÉÏÓÐ%dÖÖÊýµÄ×éºÏÖÖÀà£¬ÓÐ%d¸ö\n",hangshustore[i],hangshu[i]);
+	}/*FUNCTION2 addfinish*/
 }
