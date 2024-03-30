@@ -9,7 +9,7 @@
             * Utilizes simulator ⊷ 👉 [2D ray-optics simulation](https://github.com/ChenZhu-Xie/ray_optics__xcz)
         * Applied to explain ⊶ 👉 [the microstate number of boson systems](https://github.com/ChenZhu-Xie/undergraduate_courses/tree/master/03__2.1__Courses_Science\12__5.3__Email_exchange_with「Thermodynamics_and_Statistical_Physics」teacher_Li_Nan__2.5_year)
             * Contained in courses ⊂ 👉 [「Thermo Dynamics」&「Statistical Physics」](https://github.com/ChenZhu-Xie/undergraduate_courses/tree/master/03__2.1__Courses_Science\12__5.3__Email_exchange_with「Thermodynamics_and_Statistical_Physics」teacher_Li_Nan__2.5_year)
-        * Employs tech ⊷ 👉 [C++](https://github.com/ChenZhu-Xie/undergraduate_courses/tree/master/04__2.2__Courses_Engineering/0__1.1__C++_Programming__0.5_year)
+        * Employs tech ⊷ 👉 [C++](https://github.com/ChenZhu-Xie/undergraduate_courses/tree/master/04__2.2__Courses_Engineering/1__1.1__C++_Programming__0.5_year)
             * Belongs to career ⊂ 👉 [undergraduate courses: Engineering](https://github.com/ChenZhu-Xie/undergraduate_courses/tree/master/04__2.2__Courses_Engineering)
     2. Whose content ⊋ 👉[「Spherical trigonometry」](https://github.com/ChenZhu-Xie/3_books_with_cpp/tree/master/2.『Illusions_of_Illustrations_·_Zodiac』(C++).pdf)
         * Applied by paper ⊶ 👉 [Berry-Mcleod paper (Private)](https://github.com/ChenZhu-Xie/Berry_Mcleod_paper__private)

@@ -10,7 +10,7 @@
             * 使用到模拟器 ⊷ 👉 [2D 射線追蹤 模拟](https://gitee.com/ChenZhu-Xie/ray_optics__xcz)
         * 用于解释 ⊶ 👉 [「玻色子系统」的「微观状态数」](https://gitee.com/ChenZhu-Xie/undergraduate_courses/tree/master/03__2.1__Courses_Science\12__5.3__Email_exchange_with「Thermodynamics_and_Statistical_Physics」teacher_Li_Nan__2.5_year)
             * 属于课程 ⊂ 👉 [「热力学」与「统计物理」](https://gitee.com/ChenZhu-Xie/undergraduate_courses/tree/master/03__2.1__Courses_Science\12__5.3__Email_exchange_with「Thermodynamics_and_Statistical_Physics」teacher_Li_Nan__2.5_year) 
-        * 使用技术 ⊷ 👉 [C++](https://gitee.com/ChenZhu-Xie/undergraduate_courses/tree/master/04__2.2__Courses_Engineering/0__1.1__C++_Programming__0.5_year)
+        * 使用技术 ⊷ 👉 [C++](https://gitee.com/ChenZhu-Xie/undergraduate_courses/tree/master/04__2.2__Courses_Engineering/1__1.1__C++_Programming__0.5_year)
             * 属于生涯 ⊂ 👉 [本科 课程：工程](https://gitee.com/ChenZhu-Xie/undergraduate_courses/tree/master/04__2.2__Courses_Engineering) 
     2. 其中内容 ⊋ 👉[「Spherical trigonometry」](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/tree/master/2.『Illusions_of_Illustrations_·_Zodiac』(C++).pdf)
         * 用于文章 ⊶ 👉 [Berry-Mcleod paper (Private)](https://gitee.com/ChenZhu-Xie/Berry_Mcleod_paper__private)
