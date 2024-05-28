@@ -45,6 +45,8 @@
     * （个人阶段）大学本科 1 年级（入学 至 大二开学）
     * （世界时间）2016.10 ~ 2016.12 ~ 2017.08
 
+[![fig](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/raw/master/img/book_2-6.png "多元一次不定方程的通解 $\{x_i\}$.cpp")](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/tree/master/cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』/12.第10个程序的改良版(2+5+8b).cpp "多元一次不定方程的通解 $\{x_i\}$.cpp")
+
 <!-- ## 软件架构
 软件架构说明
 

@@ -46,6 +46,8 @@
     * (World time) approximately during 2016-2017
         * 2016.10 - 2016.12 - 2017.08
 
+[![fig](https://github.com/ChenZhu-Xie/3_books_with_cpp/raw/master/img/book_2-6.png "General solution $\{x_i\}$ of a multivariable linear Diophantine equation.cpp")](https://github.com/ChenZhu-Xie/3_books_with_cpp/tree/master/cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』/12.第10个程序的改良版(2+5+8b).cpp "General solution $\{x_i\}$ of a multivariable linear Diophantine equation.cpp")
+
 <!-- ## Software Architecture
 Software architecture description
 
